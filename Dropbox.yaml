@@ -23,5 +23,7 @@ payload:
   - DOMAIN-SUFFIX,getdropbox.com
   - DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
   - IP-CIDR,162.125.85.0/24
+  - IP-CIDR,162.125.80.0/24
+  - IP-CIDR,162.125.40.0/24
   - IP-CIDR,162.125.8.0/24
   
